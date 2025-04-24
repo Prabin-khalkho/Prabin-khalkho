@@ -1,30 +1,20 @@
-🔭 <br>I’m currently working on<br>
-Turning raw data into smart decisions using Python & Excel
+🔭 I’m currently working on<br>
+Turning raw data into smart decisions using Python & Excel<br><br>
 
-<br><br>
+🎯 I’m looking to collaborate on<br>
+Creative data storytelling, student-led projects, & visual dashboards<br><br>
 
-🎯 <br>I’m looking to collaborate on<br>
-Creative data storytelling, student-led projects, & visual dashboards
+🧠 I’m looking for help with<br>
+Real-world analytics case studies & standout portfolio ideas<br><br>
 
-<br><br>
+🌱 I’m currently learning<br>
+Power BI, SQL, and mastering data insights like a pro<br><br>
 
-🧠 <br>I’m looking for help with<br>
-Real-world analytics case studies & standout portfolio ideas
+💬 Ask me about<br>
+Data cleaning hacks, WOW-worthy visualizations, or how to break into analytics<br><br>
 
-<br><br>
-
-🌱 <br>I’m currently learning<br>
-Power BI, SQL, and mastering data insights like a pro
-
-<br><br>
-
-💬 <br>Ask me about<br>
-Data cleaning hacks, WOW-worthy visualizations, or how to break into analytics
-
-<br><br>
-
-⚡ <br>Fun fact<br>
-I see data as a mystery—and I love being the detective 🕵️‍♂️📊
+⚡ Fun fact<br>
+I see data as a mystery—and I love being the detective 🕵️‍♂️📊<br>
 
 
 ## 🌐 Socials:
