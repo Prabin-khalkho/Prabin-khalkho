@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on
-Turning raw data into smart decisions using Python & Excel<br><br>🎯 I’m looking to collaborate on
-Creative data storytelling, student data projects & visual dashboards<br><br>🧠 I’m looking for help with
-Real-world analytics case studies & portfolio ideas<br><br>🌱 🌱 I’m currently learning
-Power BI, SQL, and mastering data insights like a pro<br><br>💬 Ask me about
-Data cleaning hacks, visualizations that WOW, or breaking into analytics<br><br>⚡ Fun fact
+🔭 <br>I’m currently working on<br>
+Turning raw data into smart decisions using Python & Excel<br><br>🎯 I’m looking to collaborate on<br>
+<br>Creative data storytelling, student data projects & visual dashboards<br><br>🧠 I’m looking for help with<br>
+<br>Real-world analytics case studies & portfolio ideas<br><br> 🌱 I’m currently learning<br>
+<br>Power BI, SQL, and mastering data insights like a pro<br><br>💬 Ask me about<br>
+<br>Data cleaning hacks, visualizations that WOW, or breaking into analytics<br><br>⚡ Fun fact<br>
 I see data as a mystery—and I love being the detective 🕵️‍♂️📊
 
 
